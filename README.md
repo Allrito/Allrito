@@ -11,7 +11,7 @@
 
 <div>
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=AllanEpitech&theme=github-dark&date_format=j%20M%5B%20Y%5D&hide_border=true" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AllanEpitech&theme=shades-of-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727&sideNums=BC2BFF" alt="GitHub Stats" /> <br/><br/>
   </p>
 </div>
 
