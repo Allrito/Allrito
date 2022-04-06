@@ -43,8 +43,7 @@
   <a href="https://trello.com/"><img alt='Trello' src='https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white'/></a>
   </p>
 
-## Où me trouver
-
+## Où me trouver
 <a href="https://github.com/AllanEpitech"><img alt='GitHub' src='https://img.shields.io/badge/github (lol)-%23121011.svg?style=for-the-badge&logo=github&logoColor=white'/></a>
 <a href="https://www.linkedin.com/in/allan-thamvongs-964007232"><img alt='LinkedIn' src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
 <img alt='Discord' src='https://img.shields.io/badge/Allan THAMVONGS(hashtag)1633-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white'/>
