@@ -1,3 +1,4 @@
+
   
 <p align=center>  <strong> >_ Bonjour ! Bienvenue sur ma page GitHub !</strong> <p>
 
@@ -11,9 +12,11 @@
 
 <div>
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=AllanEpitech&theme=shades-of-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727&sideNums=BC2BFF" alt="GitHub Stats" /> <br/><br/>
+    <img height=170 src="https://github-readme-streak-stats.herokuapp.com?user=AllanEpitech&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727&sideNums=BC2BFF" alt="GitHub Streak" />
+    <img height=170  src="https://github-readme-stats.vercel.app/api?username=AllanEpitech&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   </p>
 </div>
+
 
 <p align='center'>
   <img alt='HTML' src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'/>
