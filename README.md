@@ -12,8 +12,8 @@
 
 <div>
   <p align="center">
-    <img height=170 src="https://github-readme-streak-stats.herokuapp.com?user=AllanEpitech&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727&sideNums=BC2BFF" alt="GitHub Streak" />
-    <img height=170  src="https://github-readme-stats.vercel.app/api?username=AllanEpitech&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
+    <img height=165 src="https://github-readme-streak-stats.herokuapp.com?user=AllanEpitech&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727&sideNums=BC2BFF" alt="GitHub Streak" />
+    <img height=165  src="https://github-readme-stats.vercel.app/api?username=AllanEpitech&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
   </p>
 </div>
 
