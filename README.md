@@ -47,7 +47,7 @@
   </p>
 
 ## <p><strong>>Où me trouver !<</strong><p>
-<a href="https://github.com/AllanEpitech"><img alt='GitHub' src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white'/></a>
+<a href="https://github.com/Allrito"><img alt='GitHub' src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white'/></a>
 <a href="https://www.linkedin.com/in/allan-thamvongs/"><img alt='LinkedIn' src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
 <img alt='Discord' src='https://img.shields.io/badge/allanthamvongs-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white'/>
 
