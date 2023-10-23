@@ -7,13 +7,13 @@
 <p>
 
 <p align=center>  <strong>
-<img src='https://komarev.com/ghpvc/?username=AllanEpitech&color=blueviolet&style=plastic'>
+<img src='https://komarev.com/ghpvc/?username=Allrito&color=blueviolet&style=plastic'>
 </strong> <p>
 
 <div>
   <p align="center">
-    <img height=165 src="https://github-readme-streak-stats.herokuapp.com?user=AllanEpitech&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727&sideNums=BC2BFF" alt="GitHub Streak" />
-    <img height=165  src="https://github-readme-stats.vercel.app/api?username=AllanEpitech&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
+    <img height=165 src="https://github-readme-streak-stats.herokuapp.com?user=Allrito&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727&sideNums=BC2BFF" alt="GitHub Streak" />
+    <img height=165  src="https://github-readme-stats.vercel.app/api?username=Allrito&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
   </p>
 </div>
 
@@ -49,7 +49,7 @@
 ## <p><strong>>Où me trouver !<</strong><p>
 <a href="https://github.com/Allrito"><img alt='GitHub' src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white'/></a>
 <a href="https://www.linkedin.com/in/allan-thamvongs/"><img alt='LinkedIn' src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
-<img alt='Discord' src='https://img.shields.io/badge/allanthamvongs-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white'/>
+<a href="https://media.discordapp.net/attachments/719016445195059271/1166025488448356432/adding_allanthamvongs_discord.png"><img alt='Discord' src='https://img.shields.io/badge/add%20me%20here%20!-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white'/></a>
 
  <br/>
 
