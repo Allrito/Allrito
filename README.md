@@ -55,7 +55,5 @@
 
    <br/>
  <br/>
-  
-  <p><strong><i>Si vous voyez ce même template sur d'autre profiles c'est moi l'originale<i></strong></p>
 
 </div>
