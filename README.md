@@ -1,6 +1,3 @@
-
-
-  
 <p align=center>  <strong> >_ Bonjour ! Bienvenue sur ma page GitHub !</strong> <p>
 
 <p align=center>  
